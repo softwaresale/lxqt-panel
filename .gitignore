@@ -1,3 +1,7 @@
 build
 *.kdev4
 CMakeLists.txt.user
+GTAGS
+GRTAGS
+GPATH
+IDEAS
